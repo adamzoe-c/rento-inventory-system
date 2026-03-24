@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-03-24T20:45:00Z",
+  "partners": [
+    {
+      "name": "Berlin Boutique",
+      "location": "Berlin, Germany",
+      "stock_level": 2,
+      "status": "Low Stock",
+      "last_sync": "1 hour ago"
+    },
+    {
+      "name": "Helsinki Wellness",
+      "location": "Helsinki, Finland",
+      "stock_level": 15,
+      "status": "Healthy",
+      "last_sync": "4 hours ago"
+    },
+    {
+      "name": "Amsterdam Design",
+      "location": "Amsterdam, Netherlands",
+      "stock_level": 0,
+      "status": "Out of Stock",
+      "last_sync": "10 minutes ago"
+    }
+  ]
+}
